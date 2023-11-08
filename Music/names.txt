@@ -1,7 +1,0 @@
-pika
-puka
-chuka
-:wq
-
-wq
-
